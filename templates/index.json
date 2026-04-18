@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Premium quality, honest price.</p>",
+            "text": "Premium quality, honest price.",
             "text_style": "body"
           }
         },
@@ -60,7 +60,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "description": { "type": "description" },
         "share": {
           "type": "share",
           "settings": { "share_label": "Share" }
@@ -72,7 +71,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "share"
       ],
       "settings": {
